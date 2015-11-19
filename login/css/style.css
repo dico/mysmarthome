@@ -1,0 +1,54 @@
+html, body {
+	font-family: "Helvetica Neue", "Segoe UI", Optima, Segoe, Candara, Calibri, Arial, sans-serif;
+	font-weight: 400;
+	color: #303030;
+}
+
+
+#page-wrap {
+	padding:5% 10%;
+}
+
+
+
+h1, h2, h3, h4, h5, h6 {
+	margin-top: 0px;
+	font-weight: 400;
+}
+
+h1 { font-size: 35px; }
+h2 { font-size: 25px; }
+
+
+
+#page-login-container {
+	margin: 0 auto;
+	max-width:350px;
+	padding-top:30px;
+	text-align: center;
+}
+
+
+#page-login-info {
+	margin: 0 auto;
+	max-width:350px;
+	padding-top:2%;
+}
+
+
+
+
+a {
+	color:#303030;
+}
+
+a:hover {
+	color: #2aa4ea;
+	text-decoration: none;
+}
+
+
+
+label {
+	font-weight: normal;
+}

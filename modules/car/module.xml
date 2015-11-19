@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<binding>
+	<name>Car</name>
+	<folder>car</folder>
+	<description>Module</description>
+	<icon><![CDATA[<i class="fa fa-car"></i>]]></icon>
+	<version>0.0.1</version>
+	<author>
+		<name>Robert Andresen</name>
+		<mail>ra@fosen-utvikling.no</mail>
+		<phone></phone>
+		<web>http://mysmarthome.no</web>
+	</author>
+</binding>
