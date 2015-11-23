@@ -156,6 +156,7 @@ CREATE TABLE IF NOT EXISTS `msh_devices` (
   `binding` varchar(64) NOT NULL,
   `device_ext_id` varchar(256) NOT NULL,
   `device_name` varchar(128) NOT NULL,
+  `device_alias` varchar(128) NOT NULL,
   `description` varchar(256) NOT NULL,
   `icon` varchar(128) NOT NULL,
   `url` varchar(256) NOT NULL,
